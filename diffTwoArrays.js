@@ -14,4 +14,4 @@ function diffArray(arr1, arr2) {
 
 console.log(diffArray([1, 2, 3, 5], [1, 2, 3, 4, 5]));
 
-// 5.28
+// 5.28 minutes

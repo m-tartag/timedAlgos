@@ -11,4 +11,4 @@ function sumAll(arr) {
 
 sumAll([1, 4]);
 
-// 4.17
+// 4.17 minutes
