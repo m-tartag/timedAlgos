@@ -4,7 +4,7 @@ function whatIsInAName(collection, source) {
 
   for (let i = 0; i < KEYS.length; i++) {
     collection = collection.filter(item => item[KEYS[i]] === source[KEYS[i]]);
-    console.log(collection);
+    // console.log(collection);
   }
   return collection;
 }
