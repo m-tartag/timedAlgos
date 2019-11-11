@@ -13,6 +13,6 @@ function sumFibs(num) {
   return BANK.filter(item => item % 2 !== 0).reduce((a, b) => a + b);
 }
 
-console.log(sumFibs(10));
+console.log(239 / 2);
 
 // 6.15 mins
