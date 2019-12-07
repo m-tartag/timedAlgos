@@ -4,7 +4,6 @@ function truthCheck(collection, pre) {
       return false;
     }
   }
-
   return true;
 }
 
