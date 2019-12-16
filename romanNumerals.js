@@ -58,5 +58,4 @@ function convertToRoman(num) {
   }
   return COUNTER.join('');
 }
-
 console.log(convertToRoman(3543));
