@@ -5,4 +5,4 @@ function destroyer(arr) {
 
 console.log(destroyer([1, 2, 3, 1, 2, 3], 2, 3));
 
-// 6.2 minutes
+// 6.2 minute
